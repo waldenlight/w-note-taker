@@ -1,17 +1,7 @@
 [
     {
-        "title": "Hello",
-        "text": "Hello again",
-        "note_id": "9df3f9f6-6bae-40cc-9a0d-88e2ea0cc50e"
-    },
-    {
         "title": "Test Title",
         "text": "Test text",
         "note_id": "c4a9eb49-b3f3-427a-a027-b2c92f291d4f"
-    },
-    {
-        "title": "Yes",
-        "text": "Yessir",
-        "note_id": "efb86c1b-68ad-4f34-8977-15971eb40df5"
     }
 ]
