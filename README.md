@@ -23,7 +23,7 @@ A note taking app using express
 ## Installation
 Clone the repo and navigate to the develop folder in your terminal.
 ## Usage
-Run server.js and open index.html in the browser.
+Run server.js and open localhost:3001 in the browser.
 
 You should see this:
 
